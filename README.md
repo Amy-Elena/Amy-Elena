@@ -24,10 +24,14 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="300"/>
 </div>
 
 
+---
+
+### :woman_technologist: About Me :
+I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
   
   
