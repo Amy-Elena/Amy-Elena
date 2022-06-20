@@ -26,12 +26,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="200"/>
 </div>
- 
+     
+---
 
-
-
-  
-  
   
   
 <!--
@@ -48,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
