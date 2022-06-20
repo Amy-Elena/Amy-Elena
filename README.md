@@ -29,10 +29,11 @@
      
 ---
 
-### :woman_technologist: About Me :  
-  
-
-  
+### :woman_technologist: About Me :
+- I am a budding Data Analyst <img src="https://media.giphy.com/media/VHI6svvhu5xuqzyAoM/giphy.gif" width="30"> from Nigeria.
+- 🌱 I’m currently working on projects and enhancing my skills on a bunch of useful tools
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amara-igboanugo/)
+- ⚡ Interests: 🛋️ Interior decor, 🍲 Food, 🔭 Astronomy, 😄 fun
   
 
   
